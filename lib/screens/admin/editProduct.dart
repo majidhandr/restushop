@@ -76,7 +76,7 @@ class EditProduct extends StatelessWidget {
                   },
                   color: Colors.orange,
                   child: Text(
-                    'Add Image',
+                    'Edit Image',
                     style: TextStyle(color: Colors.white),
                   ),
                 ),
