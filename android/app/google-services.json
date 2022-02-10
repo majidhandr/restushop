@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840458926473",
+    "project_id": "restu-app",
+    "storage_bucket": "restu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840458926473:android:13239aea9f3e59340f8958",
+        "android_client_info": {
+          "package_name": "com.example.restu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840458926473-ql3capsfl601fk0l1ahn5kvgt8lq5aam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS5oSyB8VwNpYFvGmbwGISzgZJIvlCPOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840458926473-ql3capsfl601fk0l1ahn5kvgt8lq5aam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
