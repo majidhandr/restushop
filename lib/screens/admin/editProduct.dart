@@ -68,6 +68,20 @@ class EditProduct extends StatelessWidget {
                 SizedBox(
                   height: 20,
                 ),
+                 FlatButton(
+                  shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(20)),
+                  onPressed: () {
+                    ImagePicker.pickImage(source: ImageSource.gallery);
+                  },
+                  color: Colors.orange,
+                  child: Text(
+                    'Add Image',
+                    style: TextStyle(color: Colors.white),
+                  ),
+                ),
+                
+                
                 RaisedButton(
                   onPressed: () {
                     if (_globalKey.currentState.validate()) {
